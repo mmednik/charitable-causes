@@ -23,4 +23,4 @@ Very simple implementation of a Smart Contract for charity fundraising.
 
 MIT
 
-**Free Software, Hell Yeah!**
+**Open Software, Hell Yeah!**
