@@ -1,7 +1,7 @@
 # Charitable Causes Smart Contract 
 ## _Simple example of a Smart Contract for charitable causes_
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]
 
 Very simple implementation of a Smart Contract for charity fundraising.
 
